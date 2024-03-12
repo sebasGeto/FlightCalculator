@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T05:41:44.444Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="Baps3tKQt1ZCYfZFncvq" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-12T05:45:52.331Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="ojr7WnVdeZ8XKjwsImP8" version="24.0.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2827" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5954" dy="2567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -353,6 +353,20 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="H_y5KWAI4GuCOlJa-fVT-153" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="H_y5KWAI4GuCOlJa-fVT-142" target="H_y5KWAI4GuCOlJa-fVT-155">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-80" y="2439.9999999999995" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-150" y="2470" />
+              <mxPoint x="-150" y="2470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H_y5KWAI4GuCOlJa-fVT-154" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H_y5KWAI4GuCOlJa-fVT-153">
+          <mxGeometry x="0.0567" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="H_y5KWAI4GuCOlJa-fVT-142" value="Pasajero 2 o 3" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="2430" width="100" height="80" as="geometry" />
         </mxCell>
@@ -379,6 +393,33 @@
               <mxPoint x="-908" y="1495" />
               <mxPoint x="-908" y="360" />
               <mxPoint x="-7" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H_y5KWAI4GuCOlJa-fVT-159" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="H_y5KWAI4GuCOlJa-fVT-155" target="H_y5KWAI4GuCOlJa-fVT-158">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H_y5KWAI4GuCOlJa-fVT-155" value="Calcular precio total de todo el viaje" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-318.75" y="2439.9999999999995" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H_y5KWAI4GuCOlJa-fVT-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="H_y5KWAI4GuCOlJa-fVT-158" target="H_y5KWAI4GuCOlJa-fVT-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-259" y="2210" />
+              <mxPoint x="414" y="2210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H_y5KWAI4GuCOlJa-fVT-158" value="Precio total del combo" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-318.75" y="2319.9999999999995" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H_y5KWAI4GuCOlJa-fVT-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.548;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="H_y5KWAI4GuCOlJa-fVT-10" target="H_y5KWAI4GuCOlJa-fVT-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="633" y="20" />
+              <mxPoint x="342" y="20" />
+              <mxPoint x="342" y="130" />
+              <mxPoint x="-3" y="130" />
             </Array>
           </mxGeometry>
         </mxCell>
