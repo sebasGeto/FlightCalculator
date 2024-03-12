@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T05:04:34.208Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="BqcM1H0Puu0ZohmhdC3K" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-12T05:12:49.950Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="o8HRm2iMZuJLnDS5aeJ7" version="24.0.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3037" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2694" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -103,14 +103,71 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H_y5KWAI4GuCOlJa-fVT-36" value="peso&amp;nbsp;&amp;gt;= 3kg" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="H_y5KWAI4GuCOlJa-fVT-36" value="peso&amp;nbsp;&amp;gt; 3kg" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-647.5" y="725" width="125" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="H_y5KWAI4GuCOlJa-fVT-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="H_y5KWAI4GuCOlJa-fVT-41" target="H_y5KWAI4GuCOlJa-fVT-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-815.0000000000002" y="1009.9999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-815" y="980" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="H_y5KWAI4GuCOlJa-fVT-41" value="Debe ofrecer la tarifa xs" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-890" y="750" width="150" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="H_y5KWAI4GuCOlJa-fVT-44" value="peso&amp;nbsp;&amp;gt;= 13kg" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="H_y5KWAI4GuCOlJa-fVT-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="H_y5KWAI4GuCOlJa-fVT-44" target="H_y5KWAI4GuCOlJa-fVT-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H_y5KWAI4GuCOlJa-fVT-50" value="si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H_y5KWAI4GuCOlJa-fVT-49">
+          <mxGeometry x="0.1245" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H_y5KWAI4GuCOlJa-fVT-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="H_y5KWAI4GuCOlJa-fVT-44" target="H_y5KWAI4GuCOlJa-fVT-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H_y5KWAI4GuCOlJa-fVT-53" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H_y5KWAI4GuCOlJa-fVT-52">
+          <mxGeometry x="-0.0533" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H_y5KWAI4GuCOlJa-fVT-44" value="peso&amp;nbsp;&amp;gt; 13kg" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-440" y="726.88" width="121.25" height="121.25" as="geometry" />
+        </mxCell>
+        <mxCell id="H_y5KWAI4GuCOlJa-fVT-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="H_y5KWAI4GuCOlJa-fVT-48" target="H_y5KWAI4GuCOlJa-fVT-59">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-178" y="980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H_y5KWAI4GuCOlJa-fVT-48" value="Debe ofrecer la tarifa M" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-238.125" y="757.505" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H_y5KWAI4GuCOlJa-fVT-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="H_y5KWAI4GuCOlJa-fVT-51" target="H_y5KWAI4GuCOlJa-fVT-59">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-290" y="586" />
+              <mxPoint x="-290" y="680" />
+              <mxPoint x="-70" y="680" />
+              <mxPoint x="-70" y="980" />
+              <mxPoint x="-450" y="980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H_y5KWAI4GuCOlJa-fVT-51" value="Debe ofrecer la tarifa S" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-439.375" y="556.255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H_y5KWAI4GuCOlJa-fVT-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="H_y5KWAI4GuCOlJa-fVT-59" target="H_y5KWAI4GuCOlJa-fVT-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H_y5KWAI4GuCOlJa-fVT-59" value="Calcular precio tarifa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-570" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H_y5KWAI4GuCOlJa-fVT-67" value="Desea elegir asiento?" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-655" y="1040" width="290" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
