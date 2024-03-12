@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T04:51:38.144Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="YP1yxt8Uw_4-3e1PxS3P" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-12T05:04:34.208Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="BqcM1H0Puu0ZohmhdC3K" version="24.0.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1836" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3037" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -67,8 +67,50 @@
         <mxCell id="H_y5KWAI4GuCOlJa-fVT-25" value="¡Muy bien! Empecemos contigo, Miguel. Aproximadamente, ¿cuánto peso en kg llevarás en equipaje?" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-140" y="392.5" width="250" height="65" as="geometry" />
         </mxCell>
+        <mxCell id="H_y5KWAI4GuCOlJa-fVT-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="H_y5KWAI4GuCOlJa-fVT-27" target="H_y5KWAI4GuCOlJa-fVT-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="H_y5KWAI4GuCOlJa-fVT-27" value="Input peso" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-430" y="392.5" width="250" height="65" as="geometry" />
+          <mxGeometry x="-420" y="392.5" width="250" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="H_y5KWAI4GuCOlJa-fVT-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="H_y5KWAI4GuCOlJa-fVT-29" target="H_y5KWAI4GuCOlJa-fVT-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H_y5KWAI4GuCOlJa-fVT-29" value="¡Excelente!, en este caso, te ofrezco para ti las siguientes tarifas:" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-720" y="392.5" width="270" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="H_y5KWAI4GuCOlJa-fVT-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="H_y5KWAI4GuCOlJa-fVT-34" target="H_y5KWAI4GuCOlJa-fVT-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H_y5KWAI4GuCOlJa-fVT-34" value="Calculo de tarifa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-702.5" y="550" width="235" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="H_y5KWAI4GuCOlJa-fVT-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="H_y5KWAI4GuCOlJa-fVT-36" target="H_y5KWAI4GuCOlJa-fVT-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-430" y="787.5999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H_y5KWAI4GuCOlJa-fVT-40" value="si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H_y5KWAI4GuCOlJa-fVT-39">
+          <mxGeometry x="-0.1152" y="2" relative="1" as="geometry">
+            <mxPoint x="1" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H_y5KWAI4GuCOlJa-fVT-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="H_y5KWAI4GuCOlJa-fVT-36" target="H_y5KWAI4GuCOlJa-fVT-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H_y5KWAI4GuCOlJa-fVT-43" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H_y5KWAI4GuCOlJa-fVT-42">
+          <mxGeometry x="-0.0182" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H_y5KWAI4GuCOlJa-fVT-36" value="peso&amp;nbsp;&amp;gt;= 3kg" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-647.5" y="725" width="125" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="H_y5KWAI4GuCOlJa-fVT-41" value="Debe ofrecer la tarifa xs" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-890" y="750" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="H_y5KWAI4GuCOlJa-fVT-44" value="peso&amp;nbsp;&amp;gt;= 13kg" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-440" y="726.88" width="121.25" height="121.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
