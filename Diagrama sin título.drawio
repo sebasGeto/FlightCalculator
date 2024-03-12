@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T04:49:57.995Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="zABU_8zTR7aIAmGTIH5Y" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-12T04:51:38.144Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="YP1yxt8Uw_4-3e1PxS3P" version="24.0.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1009" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1836" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -52,11 +52,23 @@
         <mxCell id="H_y5KWAI4GuCOlJa-fVT-10" value="Viajar solo" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="573" y="395" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="H_y5KWAI4GuCOlJa-fVT-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="H_y5KWAI4GuCOlJa-fVT-16" target="H_y5KWAI4GuCOlJa-fVT-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="H_y5KWAI4GuCOlJa-fVT-16" value="Viajar con amigos" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="144" y="395" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H_y5KWAI4GuCOlJa-fVT-22" value="FIN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="364" y="1020" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="H_y5KWAI4GuCOlJa-fVT-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="H_y5KWAI4GuCOlJa-fVT-25" target="H_y5KWAI4GuCOlJa-fVT-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H_y5KWAI4GuCOlJa-fVT-25" value="¡Muy bien! Empecemos contigo, Miguel. Aproximadamente, ¿cuánto peso en kg llevarás en equipaje?" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-140" y="392.5" width="250" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="H_y5KWAI4GuCOlJa-fVT-27" value="Input peso" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-430" y="392.5" width="250" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
